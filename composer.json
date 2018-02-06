@@ -1,0 +1,33 @@
+{
+    "name": "bantenprov/balita-gizi-buruk-mendapat-perawatan",
+    "description": "Cakupan Balita Gizi Buruk Mendapat Perawatan Menurut Kabupaten/Kota",
+    "type": "library",
+    "homepage": "https://github.com/bantenprov/balita-gizi-buruk-mendapat-perawatan",
+    "authors": [
+        {
+        "name": "bantenprov",
+        "email": "developer.bantenprov@gmail.com",
+        "role": "developer"
+    }
+    ],
+    "license": "MIT",
+    "support": {
+      "source": "https://github.com/bantenprov/balita-gizi-buruk-mendapat-perawatan,",
+      "issues": "https://github.com/bantenprov/balita-gizi-buruk-mendapat-perawatan/issues",
+      "wiki": "https://github.com/bantenprov/balita-gizi-buruk-mendapat-perawatan/wiki"
+    },
+    "require": {
+        "php": ">=5.6.4",
+        "laravel/framework": "5.4.*",
+        "laravel/tinker": "~1.0"
+    },
+    "autoload": {
+        "files": [
+            "src/helpers/helpers.php"
+        ],
+        "psr-4": {
+            "Bantenprov\\BGBurukPerawatan\\": "src"
+        }
+    },
+    "minimum-stability": "dev"
+}
