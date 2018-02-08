@@ -1,126 +1,42 @@
 [
   {
     "xAxis": {
-      "category": "SD/MI/Paket A",
-      "region": "Provinsi",
-      "name": "Banten",
+      "type": "balita-gizi-buruk-mendapat-perawatan",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
       "data": [
+        "2013",
         "2014",
-        "2015",
-        "2016"
+        "2015"
       ]
     },
     "series": [
       {
         "data": [
-          120,
-          200,
-          150
+          865,
+          115,
+          174
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "category": "SD/MI/Paket A",
-      "region": "Negara",
-      "name": "Indonesia",
+      "type": "balita-gizi-buruk-mendapat-perawatan",
+      "region": "Kabupaten",
+      "name": "Lebak",
       "data": [
+        "2013",
         "2014",
-        "2015",
-        "2016"
+        "2015"
       ]
     },
     "series": [
       {
         "data": [
-          300,
-          450,
-          750
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "SMP/MTS/Paket B",
-      "region": "Provinsi",
-      "name": "Banten",
-      "data": [
-        "2014",
-        "2015",
-        "2016"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          220,
-          270,
-          350
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "SMP/MTS/Paket B",
-      "region": "Negara",
-      "name": "Indonesia",
-      "data": [
-        "2014",
-        "2015",
-        "2016"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          380,
-          510,
-          690
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "SMA/SMK/Paket C",
-      "region": "Provinsi",
-      "name": "Banten",
-      "data": [
-        "2014",
-        "2015",
-        "2016"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          120,
-          270,
-          450
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "SMA/SMK/Paket C",
-      "region": "Negara",
-      "name": "Indonesia",
-      "data": [
-        "2014",
-        "2015",
-        "2016"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          680,
-          710,
-          1990
+          508,
+          52,
+          163
         ]
       }
     ]

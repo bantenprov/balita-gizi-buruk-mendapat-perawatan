@@ -1,44 +1,102 @@
 [
   {
     "xAxis": {
-      "type": "category",
+      "type": "balita-gizi-buruk-mendapat-perawatan",
       "region": "Provinsi",
       "name": "Banten",
-      "yyyy": "2018",
+      "yyyy": "2013",
+      "index": "banten-2013-bg-buruk-perawatan",
+      "title": "Balita Gizi Buruk Mendapat Perawatan",
       "data": [
-        "SD/MI/Paket A",
-        "SMP/MTS/Paket B",
-        "SMA/SMK/Paket C"
+        "Kab. Pandeglang",
+        "Kab. Lebak",
+        "Kab. Tangerang",
+        "Kab. Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
       ]
     },
     "series": [
       {
         "data": [
-          120,
-          200,
-          150
+          865,
+          508,
+          1400,
+          176,
+          139,
+          26,
+          48,
+          42
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "category",
-      "region": "Negara",
-      "name": "Indonesia",
-      "yyyy": "2018",
+      "type": "balita-gizi-buruk-mendapat-perawatan",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2014",
+      "index": "banten-2014-bg-buruk-perawatan",
+      "title": "Balita Gizi Buruk Mendapat Perawatan",
       "data": [
-        "SD/MI/Paket A",
-        "SMP/MTS/Paket F",
-        "SMA/SMK/Paket C"
+        "Kab. Pandeglang",
+        "Kab. Lebak",
+        "Kab. Tangerang",
+        "Kab. Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
       ]
     },
     "series": [
       {
         "data": [
-          50,
-          30,
-          350
+          115,
+          352,
+          368,
+          201,
+          45,
+          29,
+          66,
+          68
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "balita-gizi-buruk-mendapat-perawatan",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2013",
+      "index": "banten-2013-bg-buruk-perawatan",
+      "title": "Balita Gizi Buruk Mendapat Perawatan",
+      "data": [
+        "Kab. Pandeglang",
+        "Kab. Lebak",
+        "Kab. Tangerang",
+        "Kab. Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          174,
+          163,
+          243,
+          263,
+          72,
+          42,
+          66,
+          28
         ]
       }
     ]

@@ -1,34 +1,50 @@
 [
   {
     "xAxis": {
-      "type": "category",
-      "region": "Provinsi",
-      "name": "Banten",
-      "yyyy": "2018"
+      "type": "balita-gizi-buruk-mendapat-perawatan",
+      "region": "Kota",
+      "name": "Pandeglang"
     },
     "series": [
       {
         "data": [
-          {"value":120,"name":"SD/MI/Paket A"},
-          {"value":200,"name":"SMP/MTS/Paket B"},
-          {"value":150,"name":"SMA/SMK/Paket C"}
+          {
+            "value": 865,
+            "name": "2013"
+          },
+          {
+            "value": 115,
+            "name": "2014"
+          },
+          {
+            "value": 174,
+            "name": "2015"
+          }
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "category",
-      "region": "Negara",
-      "name": "Indonesia",
-      "yyyy": "2018"
+      "type": "balita-gizi-buruk-mendapat-perawatan",
+      "region": "Kota",
+      "name": "Lebak"
     },
     "series": [
       {
         "data": [
-          {"value":50,"name":"SD/MI/Paket A"},
-          {"value":30,"name":"SMP/MTS/Paket B"},
-          {"value":350,"name":"SMA/SMK/Paket C"}
+          {
+            "value": 508,
+            "name": "2013"
+          },
+          {
+            "value": 352,
+            "name": "2014"
+          },
+          {
+            "value": 163,
+            "name": "2015"
+          }
         ]
       }
     ]
