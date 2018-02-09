@@ -1,126 +1,168 @@
 [
   {
     "xAxis": {
-      "category": "SD/MI/Paket A",
-      "region": "Provinsi",
-      "name": "Banten",
+      "category": "Jumlah Seluruh Balita Gizi Buruk",
+      "region": "Kabupaten",
+      "name": "Pandeglang",
       "data": [
+        "2013",
         "2014",
-        "2015",
-        "2016"
+        "2015"
       ]
     },
     "series": [
       {
         "data": [
-          120,
-          200,
-          150
+          865,
+          115,
+          174
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "category": "SD/MI/Paket A",
-      "region": "Negara",
-      "name": "Indonesia",
+      "category": "Jumlah Seluruh Balita Gizi Buruk",
+      "region": "kabupaten",
+      "name": "Lebak",
       "data": [
+        "2013",
         "2014",
-        "2015",
-        "2016"
+        "2015"
       ]
     },
     "series": [
       {
         "data": [
-          300,
-          450,
-          750
+          508,
+          352,
+          163
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "category": "SMP/MTS/Paket B",
-      "region": "Provinsi",
-      "name": "Banten",
+      "category": "Jumlah Seluruh Balita Gizi Buruk",
+      "region": "Kabupaten",
+      "name": "Tangerang",
       "data": [
+        "2013",
         "2014",
-        "2015",
-        "2016"
+        "2015"
       ]
     },
     "series": [
       {
         "data": [
-          220,
-          270,
-          350
+          1400,
+          368,
+          163
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "category": "SMP/MTS/Paket B",
-      "region": "Negara",
-      "name": "Indonesia",
+      "category": "Jumlah Seluruh Balita Gizi Buruk",
+      "region": "Kabupaten",
+      "name": "Serang",
       "data": [
+        "2013",
         "2014",
-        "2015",
-        "2016"
+        "2015"
       ]
     },
     "series": [
       {
         "data": [
-          380,
-          510,
-          690
+          176,
+          201,
+          263
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "category": "SMA/SMK/Paket C",
-      "region": "Provinsi",
-      "name": "Banten",
+      "category": "Jumlah Seluruh Balita Gizi Buruk",
+      "region": "Kota",
+      "name": "Tangerang",
       "data": [
+        "2013",
         "2014",
-        "2015",
-        "2016"
+        "2015"
       ]
     },
     "series": [
       {
         "data": [
-          120,
-          270,
-          450
+          139,
+          45,
+          72
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "category": "SMA/SMK/Paket C",
-      "region": "Negara",
-      "name": "Indonesia",
+      "category": "Jumlah Seluruh Balita Gizi Buruk",
+      "region": "Kota",
+      "name": "Cilegon",
       "data": [
+        "2013",
         "2014",
-        "2015",
-        "2016"
+        "2015"
       ]
     },
     "series": [
       {
         "data": [
-          680,
-          710,
-          1990
+          26,
+          29,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Seluruh Balita Gizi Buruk",
+      "region": "Kota",
+      "name": "Serang",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          48,
+          66,
+          66
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Jumlah Seluruh Balita Gizi Buruk",
+      "region": "Kota",
+      "name": "Tangerang Selatan",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          42,
+          68,
+          28
         ]
       }
     ]
