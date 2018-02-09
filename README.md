@@ -15,7 +15,7 @@
 
 Cakupan Balita Gizi Buruk Mendapat Perawatan Menurut Kabupaten/Kota
 
-## install via composer
+### install via composer
 
 - Development snapshot
 ```bash
@@ -27,7 +27,7 @@ $ composer require bantenprov/balita-gizi-buruk-mendapat-perawatan:dev-master
 $ composer require bantenprov/balita-gizi-buruk-mendapat-perawatan:v0.1.0
 ```
 
-## download via github
+### download via github
 ~~~
 bash
 $ git clone https://github.com/bantenprov/balita-gizi-buruk-mendapat-perawatan.git
