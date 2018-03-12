@@ -36,7 +36,7 @@
         <div class="card h-100" style="color: #fff; background-color: #FF9800;">
           <div class="card-header">
             <i class="fa fa-pie-chart" aria-hidden="true"></i>
-            Balita Gizi Buruk Mendapat Perawatan Berdasarkan Wilayah
+            Balita Gizi Buruk Mendapat Perawatan Berdasarkan Tahun
           </div>
           <div class="card-body">
             <bg-buruk-perawatan-pie-01></bg-buruk-perawatan-pie-01>
@@ -52,7 +52,7 @@
         <div class="card h-100" style="color: #fff; background-color: #F44336;">
           <div class="card-header">
             <i class="fa fa-pie-chart" aria-hidden="true"></i>
-            Balita Gizi Buruk Mendapat Perawatan Berdasarkan Tahun
+            Balita Gizi Buruk Mendapat Perawatan Berdasarkan Wilayah
           </div>
           <div class="card-body">
             <bg-buruk-perawatan-pie-02></bg-buruk-perawatan-pie-02>

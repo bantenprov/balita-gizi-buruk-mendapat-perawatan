@@ -1,200 +1,69 @@
 [
   {
     "xAxis": {
-      "type": "balita-gizi-buruk-mendapat-perawatan",
-      "region": "Kabupaten",
-      "name": "Pandeglang"
+      "title": "Balita Gizi Buruk Mendapat Perawatan 2013",
+      "type": "title",
+      "region": "Provinsi",
+      "name": "Banten"
     },
     "series": [
       {
         "data": [
-          {
-            "value": 865,
-            "name": "2013"
-          },
-          {
-            "value": 115,
-            "name": "2014"
-          },
-          {
-            "value": 174,
-            "name": "2015"
-          }
+          {"value":865,"name":"Kab. Pandeglang"},
+          {"value":508,"name":"Kab. Lebak"},
+          {"value":1400,"name":"Kab. Tangerang"},
+          {"value":176,"name":"Kab. Serang"},
+          {"value":139,"name":"Kota Tangerang"},
+          {"value":26,"name":"Kota Cilegon"},
+          {"value":48,"name":"Kota Serang"},
+          {"value":42,"name":"Kota Tangerang Selatan"}
+          
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "balita-gizi-buruk-mendapat-perawatan",
-      "region": "Kabupaten",
-      "name": "Lebak"
+      "title": "Balita Gizi Buruk Mendapat Perawatan 2014",
+      "type": "title",
+      "region": "Provinsi",
+      "name": "Banten"
     },
     "series": [
       {
         "data": [
-          {
-            "value": 508,
-            "name": "2013"
-          },
-          {
-            "value": 352,
-            "name": "2014"
-          },
-          {
-            "value": 163,
-            "name": "2015"
-          }
+          {"value":155,"name":"Kab. Pandeglang"},
+          {"value":352,"name":"Kab. Lebak"},
+          {"value":368,"name":"Kab. Tangerang"},
+          {"value":201,"name":"Kab. Serang"},
+          {"value":45,"name":"Kota Tangerang"},
+          {"value":29,"name":"Kota Cilegon"},
+          {"value":66,"name":"Kota Serang"},
+          {"value":68,"name":"Kota Tangerang Selatan"}
+          
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "type": "balita-gizi-buruk-mendapat-perawatan",
-      "region": "Kabupaten",
-      "name": "Tangerang"
+      "title": "Balita Gizi Buruk Mendapat Perawatan 2015",
+      "type": "title",
+      "region": "Provinsi",
+      "name": "Banten"
     },
     "series": [
       {
         "data": [
-          {
-            "value": 1400,
-            "name": "2013"
-          },
-          {
-            "value": 368,
-            "name": "2014"
-          },
-          {
-            "value": 163,
-            "name": "2015"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "type": "balita-gizi-buruk-mendapat-perawatan",
-      "region": "Kabupaten",
-      "name": "Serang"
-    },
-    "series": [
-      {
-        "data": [
-          {
-            "value": 176,
-            "name": "2013"
-          },
-          {
-            "value": 201,
-            "name": "2014"
-          },
-          {
-            "value": 263,
-            "name": "2015"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "type": "balita-gizi-buruk-mendapat-perawatan",
-      "region": "Kota",
-      "name": "Tangerang"
-    },
-    "series": [
-      {
-        "data": [
-          {
-            "value": 139,
-            "name": "2013"
-          },
-          {
-            "value": 45,
-            "name": "2014"
-          },
-          {
-            "value": 72,
-            "name": "2015"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "type": "balita-gizi-buruk-mendapat-perawatan",
-      "region": "Kota",
-      "name": "Cilegon"
-    },
-    "series": [
-      {
-        "data": [
-          {
-            "value": 26,
-            "name": "2013"
-          },
-          {
-            "value": 26,
-            "name": "2014"
-          },
-          {
-            "value": 42,
-            "name": "2015"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "type": "balita-gizi-buruk-mendapat-perawatan",
-      "region": "Kota",
-      "name": "Serang"
-    },
-    "series": [
-      {
-        "data": [
-          {
-            "value": 48,
-            "name": "2013"
-          },
-          {
-            "value": 66,
-            "name": "2014"
-          },
-          {
-            "value": 66,
-            "name": "2015"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "type": "balita-gizi-buruk-mendapat-perawatan",
-      "region": "Kota",
-      "name": "Tangerang Selatan"
-    },
-    "series": [
-      {
-        "data": [
-          {
-            "value": 42,
-            "name": "2013"
-          },
-          {
-            "value": 68,
-            "name": "2014"
-          },
-          {
-            "value": 28,
-            "name": "2015"
-          }
+          {"value":174,"name":"Kab. Pandeglang"},
+          {"value":163,"name":"Kab. Lebak"},
+          {"value":243,"name":"Kab. Tangerang"},
+          {"value":263,"name":"Kab. Serang"},
+          {"value":72,"name":"Kota Tangerang"},
+          {"value":42,"name":"Kota Cilegon"},
+          {"value":66,"name":"Kota Serang"},
+          {"value":28,"name":"Kota Tangerang Selatan"}
+          
         ]
       }
     ]

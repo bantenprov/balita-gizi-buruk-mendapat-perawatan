@@ -1,34 +1,17 @@
 [
   {
     "xAxis": {
-      "type": "category",
-      "region": "Kabupaten",
-      "yyyy": "2013"
+      "title": "Kabupaten Pandeglang",
+      "type": "title",
+      "region": "Provinsi",
+      "name": "Banten"
     },
     "series": [
       {
         "data": [
-          {"value":865,"name":"Pandeglang"},
-          {"value":506,"name":"Lebak"},
-          {"value":1400,"name":"Tangerang"},
-          {"value":176,"name":"Serang"}
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "type": "category",
-      "region": "Kabupaten",
-      "yyyy": "2014"
-    },
-    "series": [
-      {
-        "data": [
-          {"value":115,"name":"Pandeglang"},
-          {"value":352,"name":"Lebak"},
-          {"value":368,"name":"Tangerang"},
-          {"value":201,"name":"Serang"}
+          {"value":865,"name":"2013"},
+          {"value":155,"name":"2014"},
+          {"value":174,"name":"2015"}
           
         ]
       }
@@ -36,17 +19,17 @@
   },
   {
     "xAxis": {
-      "type": "category",
-      "region": "Kabupaten",
-      "yyyy": "2015"
+      "title": "Kabupaten Lebak",
+      "type": "title",
+      "region": "Provinsi",
+      "name": "Banten"
     },
     "series": [
       {
         "data": [
-          {"value":174,"name":"Pandeglang"},
-          {"value":163,"name":"Lebak"},
-          {"value":163,"name":"Tangerang"},
-          {"value":263,"name":"Serang"}
+          {"value":508,"name":"2013"},
+          {"value":352,"name":"2014"},
+          {"value":163,"name":"2015"}
           
         ]
       }
@@ -54,53 +37,107 @@
   },
   {
     "xAxis": {
-      "type": "category",
-      "region": "Kota",
-      "yyyy": "2013"
+      "title": "Kabupaten Tangerang",
+      "type": "title",
+      "region": "Provinsi",
+      "name": "Banten"
     },
     "series": [
       {
         "data": [
-          {"value":139,"name":"Tangerang"},
-          {"value":26,"name":"Cilegon"},
-          {"value":48,"name":"Serang"},
-          {"value":42,"name":"Tangerang Selatan"}
+          {"value":1400,"name":"2013"},
+          {"value":368,"name":"2014"},
+          {"value":243,"name":"2015"}
           
         ]
       }
     ]
   },
-    {
+  {
     "xAxis": {
-      "type": "category",
-      "region": "Kota",
-      "yyyy": "2014"
+      "title": "Kabupaten Serang",
+      "type": "title",
+      "region": "Provinsi",
+      "name": "Banten"
     },
     "series": [
       {
         "data": [
-          {"value":45,"name":"Tangerang"},
-          {"value":29,"name":"Cilegon"},
-          {"value":66,"name":"Serang"},
-          {"value":68,"name":"Tangerang Selatan"}
+          {"value":176,"name":"2013"},
+          {"value":201,"name":"2014"},
+          {"value":263,"name":"2015"}
           
         ]
       }
     ]
   },
-    {
+  {
     "xAxis": {
-      "type": "category",
-      "region": "Kota",
-      "yyyy": "2015"
+      "title": "Kota Tangerang",
+      "type": "title",
+      "region": "Provinsi",
+      "name": "Banten"
     },
     "series": [
       {
         "data": [
-          {"value":72,"name":"Tangerang"},
-          {"value":42,"name":"Cilegon"},
-          {"value":66,"name":"Serang"},
-          {"value":28,"name":"Tangerang Selatan"}
+          {"value":139,"name":"2013"},
+          {"value":45,"name":"2014"},
+          {"value":72,"name":"2015"}
+          
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Kota Cilegon",
+      "type": "title",
+      "region": "Provinsi",
+      "name": "Banten"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":26,"name":"2013"},
+          {"value":29,"name":"2014"},
+          {"value":42,"name":"2015"}
+          
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Kota Serang",
+      "type": "title",
+      "region": "Provinsi",
+      "name": "Banten"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":48,"name":"2013"},
+          {"value":66,"name":"2014"},
+          {"value":66,"name":"2015"}
+          
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Kota Tangerang Selatan",
+      "type": "title",
+      "region": "Provinsi",
+      "name": "Banten"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":42,"name":"2013"},
+          {"value":68,"name":"2014"},
+          {"value":28,"name":"2015"}
           
         ]
       }

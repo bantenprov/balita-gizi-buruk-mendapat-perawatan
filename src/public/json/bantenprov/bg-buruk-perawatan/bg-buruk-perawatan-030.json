@@ -1,7 +1,7 @@
 [
   {
     "xAxis": {
-      "category": "Jumlah Seluruh Balita Gizi Buruk",
+      "title": "Balita Gizi Buruk Mendapat Perawatan Kab. Pandeglang",
       "region": "Kabupaten",
       "name": "Pandeglang",
       "data": [
@@ -22,8 +22,8 @@
   },
   {
     "xAxis": {
-      "category": "Jumlah Seluruh Balita Gizi Buruk",
-      "region": "kabupaten",
+      "title": "Balita Gizi Buruk Mendapat Perawatan Kab. Lebak",
+      "region": "Kabupaten",
       "name": "Lebak",
       "data": [
         "2013",
@@ -43,9 +43,9 @@
   },
   {
     "xAxis": {
-      "category": "Jumlah Seluruh Balita Gizi Buruk",
+      "title": "Balita Gizi Buruk Mendapat Perawatan Kab. Tangerang",
       "region": "Kabupaten",
-      "name": "Tangerang",
+      "name": "Lebak",
       "data": [
         "2013",
         "2014",
@@ -57,16 +57,16 @@
         "data": [
           1400,
           368,
-          163
+          243
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "category": "Jumlah Seluruh Balita Gizi Buruk",
+      "title": "Balita Gizi Buruk Mendapat Perawatan Kab. Serang",
       "region": "Kabupaten",
-      "name": "Serang",
+      "name": "Lebak",
       "data": [
         "2013",
         "2014",
@@ -78,16 +78,16 @@
         "data": [
           176,
           201,
-          263
+          253
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "category": "Jumlah Seluruh Balita Gizi Buruk",
-      "region": "Kota",
-      "name": "Tangerang",
+      "title": "Balita Gizi Buruk Mendapat Perawatan Kota Tangerang",
+      "region": "Kabupaten",
+      "name": "Lebak",
       "data": [
         "2013",
         "2014",
@@ -106,9 +106,9 @@
   },
   {
     "xAxis": {
-      "category": "Jumlah Seluruh Balita Gizi Buruk",
-      "region": "Kota",
-      "name": "Cilegon",
+      "title": "Balita Gizi Buruk Mendapat Perawatan Kota Cilegon",
+      "region": "Kabupaten",
+      "name": "Lebak",
       "data": [
         "2013",
         "2014",
@@ -127,9 +127,9 @@
   },
   {
     "xAxis": {
-      "category": "Jumlah Seluruh Balita Gizi Buruk",
-      "region": "Kota",
-      "name": "Serang",
+      "title": "Balita Gizi Buruk Mendapat Perawatan Kota Serang",
+      "region": "Kabupaten",
+      "name": "Lebak",
       "data": [
         "2013",
         "2014",
@@ -148,9 +148,9 @@
   },
   {
     "xAxis": {
-      "category": "Jumlah Seluruh Balita Gizi Buruk",
-      "region": "Kota",
-      "name": "Tangerang Selatan",
+      "title": "Balita Gizi Buruk Mendapat Perawatan Kota Tangerang Selatan",
+      "region": "Kabupaten",
+      "name": "Lebak",
       "data": [
         "2013",
         "2014",

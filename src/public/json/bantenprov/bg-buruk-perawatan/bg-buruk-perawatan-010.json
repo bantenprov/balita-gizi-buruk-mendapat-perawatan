@@ -1,12 +1,8 @@
 [
   {
     "xAxis": {
-      "type": "balita-gizi-buruk-mendapat-perawatan",
-      "region": "Provinsi",
-      "name": "Banten",
-      "yyyy": "2013",
       "index": "banten-2013-bg-buruk-perawatan",
-      "title": "Balita Gizi Buruk Mendapat Perawatan",
+      "title": "Jumlah Balita Gizi Buruk Mendapat Perawatan 2013",
       "data": [
         "Kab. Pandeglang",
         "Kab. Lebak",
@@ -35,12 +31,8 @@
   },
   {
     "xAxis": {
-      "type": "balita-gizi-buruk-mendapat-perawatan",
-      "region": "Provinsi",
-      "name": "Banten",
-      "yyyy": "2014",
       "index": "banten-2014-bg-buruk-perawatan",
-      "title": "Balita Gizi Buruk Mendapat Perawatan",
+      "title": "Jumlah Seluruh Balita Gizi Buruk Yang Ditemukan 2013",
       "data": [
         "Kab. Pandeglang",
         "Kab. Lebak",
@@ -55,7 +47,37 @@
     "series": [
       {
         "data": [
-          115,
+          865,
+          508,
+          1400,
+          176,
+          139,
+          26,
+          48,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "index": "banten-2015-bg-buruk-perawatan",
+      "title": "Jumlah Balita Gizi Buruk Mendapat Perawatan 2014",
+      "data": [
+        "Kab. Pandeglang",
+        "Kab. Lebak",
+        "Kab. Tangerang",
+        "Kab. Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          155,
           352,
           368,
           201,
@@ -69,12 +91,68 @@
   },
   {
     "xAxis": {
-      "type": "balita-gizi-buruk-mendapat-perawatan",
-      "region": "Provinsi",
-      "name": "Banten",
-      "yyyy": "2015",
       "index": "banten-2015-bg-buruk-perawatan",
-      "title": "Balita Gizi Buruk Mendapat Perawatan",
+      "title": "Jumlah Seluruh Balita Gizi Buruk Yang Ditemukan 2014",
+      "data": [
+        "Kab. Pandeglang",
+        "Kab. Lebak",
+        "Kab. Tangerang",
+        "Kab. Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          155,
+          352,
+          368,
+          201,
+          45,
+          29,
+          66,
+          68
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "index": "banten-2015-bg-buruk-perawatan",
+      "title": "Jumlah Balita Gizi Buruk Mendapat Perawatan 2015",
+      "data": [
+        "Kab. Pandeglang",
+        "Kab. Lebak",
+        "Kab. Tangerang",
+        "Kab. Serang",
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          174,
+          163,
+          243,
+          263,
+          72,
+          42,
+          66,
+          28
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "index": "banten-2015-bg-buruk-perawatan",
+      "title": "Jumlah Seluruh Balita Gizi Buruk Yang Ditemukan 2015",
       "data": [
         "Kab. Pandeglang",
         "Kab. Lebak",
