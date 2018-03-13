@@ -1,52 +1,69 @@
 [
   {
     "xAxis": {
-      "category": "SD/MI/Paket A",
-      "type": "category",
+      "title": "Balita Gizi Buruk Mendapat Perawatan 2013",
+      "type": "title",
       "region": "Provinsi",
       "name": "Banten"
     },
     "series": [
       {
         "data": [
-          {
-            "value": 120,
-            "name": "2011"
-          },
-          {
-            "value": 200,
-            "name": "2012"
-          },
-          {
-            "value": 150,
-            "name": "2013"
-          }
+          {"value":865,"name":"Kab. Pandeglang"},
+          {"value":508,"name":"Kab. Lebak"},
+          {"value":1400,"name":"Kab. Tangerang"},
+          {"value":176,"name":"Kab. Serang"},
+          {"value":139,"name":"Kota Tangerang"},
+          {"value":26,"name":"Kota Cilegon"},
+          {"value":48,"name":"Kota Serang"},
+          {"value":42,"name":"Kota Tangerang Selatan"}
+          
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "category": "SD/MI/Paket A",
-      "type": "category",
-      "region": "Negara",
-      "name": "Indonesia"
+      "title": "Balita Gizi Buruk Mendapat Perawatan 2014",
+      "type": "title",
+      "region": "Provinsi",
+      "name": "Banten"
     },
     "series": [
       {
         "data": [
-          {
-            "value": 320,
-            "name": "2011"
-          },
-          {
-            "value": 400,
-            "name": "2012"
-          },
-          {
-            "value": 550,
-            "name": "2013"
-          }
+          {"value":155,"name":"Kab. Pandeglang"},
+          {"value":352,"name":"Kab. Lebak"},
+          {"value":368,"name":"Kab. Tangerang"},
+          {"value":201,"name":"Kab. Serang"},
+          {"value":45,"name":"Kota Tangerang"},
+          {"value":29,"name":"Kota Cilegon"},
+          {"value":66,"name":"Kota Serang"},
+          {"value":68,"name":"Kota Tangerang Selatan"}
+          
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Balita Gizi Buruk Mendapat Perawatan 2015",
+      "type": "title",
+      "region": "Provinsi",
+      "name": "Banten"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":174,"name":"Kab. Pandeglang"},
+          {"value":163,"name":"Kab. Lebak"},
+          {"value":243,"name":"Kab. Tangerang"},
+          {"value":263,"name":"Kab. Serang"},
+          {"value":72,"name":"Kota Tangerang"},
+          {"value":42,"name":"Kota Cilegon"},
+          {"value":66,"name":"Kota Serang"},
+          {"value":28,"name":"Kota Tangerang Selatan"}
+          
         ]
       }
     ]

@@ -1,7 +1,7 @@
 [
   {
     "xAxis": {
-      "type": "balita-gizi-buruk-mendapat-perawatan",
+      "title": "Balita Gizi Buruk Mendapat Perawatan Kabupaten Pandeglang",
       "region": "Kabupaten",
       "name": "Pandeglang",
       "data": [
@@ -22,7 +22,7 @@
   },
   {
     "xAxis": {
-      "type": "balita-gizi-buruk-mendapat-perawatan",
+      "title": "Balita Gizi Buruk Mendapat Perawatan Kabupaten Lebak",
       "region": "Kabupaten",
       "name": "Lebak",
       "data": [
@@ -35,8 +35,134 @@
       {
         "data": [
           508,
-          52,
+          352,
           163
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Balita Gizi Buruk Mendapat Perawatan Kabupaten Tangerang",
+      "region": "Kabupaten",
+      "name": "Lebak",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1400,
+          368,
+          243
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Balita Gizi Buruk Mendapat Perawatan Kabupaten Serang",
+      "region": "Kabupaten",
+      "name": "Lebak",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          176,
+          201,
+          253
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Balita Gizi Buruk Mendapat Perawatan Kota Tangerang",
+      "region": "Kabupaten",
+      "name": "Lebak",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          139,
+          45,
+          72
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Balita Gizi Buruk Mendapat Perawatan Kota Cilegon",
+      "region": "Kabupaten",
+      "name": "Lebak",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          26,
+          29,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Balita Gizi Buruk Mendapat Perawatan Kota Serang",
+      "region": "Kabupaten",
+      "name": "Lebak",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          48,
+          66,
+          66
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Balita Gizi Buruk Mendapat Perawatan Kota Tangerang Selatan",
+      "region": "Kabupaten",
+      "name": "Lebak",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          42,
+          68,
+          28
         ]
       }
     ]
